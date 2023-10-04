@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /user/register
+Disallow: /user/login/
+Disallow: /basket/index/
+Disallow: /basket/checkout
+Disallow: /download/
+Disallow: /ajax/
+Disallow: /region_switch
+Disallow: /order/payment/
+Disallow: /tools
+
+Disallow: /ru/login
+Disallow: /ru/admin/
+Disallow: /ru/cabinet/
+Disallow: /ru/ajax/
+Disallow: /ru/region_switch
+Disallow: /ru/order/payment/
+Disallow: /ru/tools
